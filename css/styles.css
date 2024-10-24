@@ -340,7 +340,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-item:hover {
+.portfolio-item:hover .portfolio-container-text {
     transform: translateY(0%);
 }
 
